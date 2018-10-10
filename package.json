@@ -1,0 +1,17 @@
+{
+	"name": "electron-demo",
+	"version": "1.0.0",
+	"description": "The demo for electron",
+	"main": "main.js",
+	"scripts": {
+		"start": "electron ."
+	},
+	"repository": "https://github.com/Scott-Coder/electron-demo",
+	"keywords": [
+    	"Electron"
+  	],
+	"author": "Scott",
+	"devDependencies": {
+		"electron": "^2.0.0"
+	}
+}
